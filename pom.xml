@@ -99,7 +99,7 @@
 			<!-- Optional URL to server. Default value is
 			http://localhost:9000 -->
 			<sonar.host.url>http://localhost:9000</sonar.host.url>
-			<sonar.token>111f2323b4b3b14d915edab15a9753218c</sonar.token>
+			<sonar.token>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</sonar.token>
 		</properties>
 		</profile>
 	</profiles>
